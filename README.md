@@ -54,28 +54,6 @@ The objective of this project is to predict whether a patient is likely to have 
 - Recall: 84.31%
 - F1 Score: 84.31%
 
-## Project Visualizations
-
-### Model Comparison
-
-![Model Comparison](images/model_comparison.png)
-
-### ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
-### Logistic Regression Confusion Matrix
-
-![Logistic Regression Confusion Matrix](images/confusion_matrix_logistic.png)
-
-### Decision Tree Confusion Matrix
-
-![Decision Tree Confusion Matrix](images/confusion_matrix_decision_tree)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
 ## Best Model
 
 Logistic Regression achieved the highest performance and was selected as the final model.
@@ -106,6 +84,36 @@ Skill Nexis – Machine Learning & AI Internship
 
 ## Author
 
-Rashmi Ranjan Sahoo
+Rasmi Ranjan Sahoo
 B.Tech CSE
 Einstein Academy of Technology and Management
+
+## Project Visualizations
+
+### Model Performance Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+---
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+### Logistic Regression Confusion Matrix
+
+![Confusion Matrix - Logistic Regression](images/confusion_matrix_logistic.png)
+
+---
+
+### Decision Tree Confusion Matrix
+
+![Confusion Matrix - Decision Tree](images/confusion_matrix_decision_tree.png)
+
+---
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
