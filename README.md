@@ -54,6 +54,28 @@ The objective of this project is to predict whether a patient is likely to have 
 - Recall: 84.31%
 - F1 Score: 84.31%
 
+## Project Visualizations
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+### Logistic Regression Confusion Matrix
+
+![Logistic Regression Confusion Matrix](images/confusion_matrix_logistic.png)
+
+### Decision Tree Confusion Matrix
+
+![Decision Tree Confusion Matrix](images/confusion_matrix_decision_tree)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 ## Best Model
 
 Logistic Regression achieved the highest performance and was selected as the final model.
